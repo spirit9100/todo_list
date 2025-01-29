@@ -224,14 +224,9 @@ flutter run -d linux
 
 ## Конфигурация
 
-1. Создайте файл .env на основе .env.example:
+Создайте файл .env на основе .env.example:
 ```bash
 cp .env.example .env
-```
-
-2. Отредактируйте .env и добавьте ваш API ключ:
-```
-OPENROUTER_API_KEY=ваш-ключ-здесь
 ```
 
 ## Проверка установки
