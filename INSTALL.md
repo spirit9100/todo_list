@@ -25,8 +25,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/neuro-fill/AIChatFlutter.git
-cd AIChatFlutter
+git clone https://github.com/spirit9100/todo_list
+cd todo_list
 ```
 
 2. Установите Flutter SDK:
